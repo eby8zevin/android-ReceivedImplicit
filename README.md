@@ -1,5 +1,5 @@
-# android-update-receivedimplicit
-Receive Implicit Intent - Android Studio UPDATE
+# android-Update-ReceivedImplicit
+Receive Implicit Intent - Android Studio **UPDATE**
 
 The Features :
 - Receive URL
