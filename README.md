@@ -1,7 +1,7 @@
-# android-Update-ReceivedImplicit
-Receive Implicit Intent - Android Studio **UPDATE**
+# android-ReceivedImplicit
+Received Implicit Intent - Android Studio
 
 The Features :
-- Receive URL
-- Receive Text
-- Receive Image
+- Received URL
+- Received Text
+- Received Image
